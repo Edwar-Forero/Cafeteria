@@ -1,4 +1,11 @@
 # Cafeteria
+
+## Desarrollador:
+```
+Edwar Yamir Forero Blanco
+
+```
+
 Este proyecto busca satisfacer los siguientes puntos:
 
 1. Se venden tres productos: gaseosa, jugo y papas fritas. Los precios son fijos y definidos por
